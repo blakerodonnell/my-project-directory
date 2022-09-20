@@ -17,7 +17,7 @@ GEM
     rspec-support (3.11.1)
 
 PLATFORMS
-  x86_64-linux
+  x86_64-darwin-20
 
 DEPENDENCIES
   rspec (~> 3.11)
